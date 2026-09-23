@@ -1,0 +1,6 @@
+Payment_ID,Payment_Method,UPI_Type
+PAY001,UPI,P2M
+PAY002,UPI,P2P
+PAY003,Credit Card,
+PAY004,Debit Card,
+PAY005,Cash,

@@ -1,0 +1,7 @@
+Rule_ID,Rule_Name,Min_Amount,MDR_Rate,MDR_Cap
+MDR001,Non-UPI,0.0,0.0,0.0
+MDR002,UPI P2P,0.0,0.0,0.0
+MDR003,P2M <= 2000,0.0,0.0,0.0
+MDR004,Standard P2M > 2000,2000.01,0.004,300.0
+MDR005,Qualifying Small Merchant Exemption,2000.01,0.0,0.0
+MDR006,Essential Sector Reference,2000.01,0.0,5.0

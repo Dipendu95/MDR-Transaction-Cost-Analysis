@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Cost,Selling_Price,Target_Margin
+P001,Smartphones Product 1,Electronics,Smartphones,13740,17070,0.195
+P002,Smartphones Product 2,Electronics,Smartphones,17660,22540,0.217
+P003,Smartphones Product 3,Electronics,Smartphones,18150,24860,0.27
+P004,Laptops Product 1,Electronics,Laptops,30000,37130,0.192
+P005,Laptops Product 2,Electronics,Laptops,33600,49200,0.317
+P006,Laptops Product 3,Electronics,Laptops,30690,38920,0.211
+P007,Televisions Product 1,Electronics,Televisions,29480,35820,0.177
+P008,Televisions Product 2,Electronics,Televisions,13520,19480,0.306
+P009,Televisions Product 3,Electronics,Televisions,33370,46130,0.277
+P010,Accessories Product 1,Electronics,Accessories,3270,4680,0.301
+P011,Accessories Product 2,Electronics,Accessories,2510,3880,0.353
+P012,Accessories Product 3,Electronics,Accessories,1600,1990,0.196
+P013,Kitchen Appliances Product 1,Home & Kitchen,Kitchen Appliances,1770,2900,0.39
+P014,Kitchen Appliances Product 2,Home & Kitchen,Kitchen Appliances,3500,4340,0.194
+P015,Kitchen Appliances Product 3,Home & Kitchen,Kitchen Appliances,4420,5810,0.239
+P016,Furniture Product 1,Home & Kitchen,Furniture,26970,33520,0.195
+P017,Furniture Product 2,Home & Kitchen,Furniture,18170,24430,0.256
+P018,Furniture Product 3,Home & Kitchen,Furniture,7660,10690,0.283
+P019,Home Appliances Product 1,Home & Kitchen,Home Appliances,12020,15540,0.227
+P020,Home Appliances Product 2,Home & Kitchen,Home Appliances,15240,20490,0.256
+P021,Home Appliances Product 3,Home & Kitchen,Home Appliances,9100,11250,0.191
+P022,Men's Clothing Product 1,Fashion,Men's Clothing,740,950,0.221
+P023,Men's Clothing Product 2,Fashion,Men's Clothing,2660,3970,0.33
+P024,Men's Clothing Product 3,Fashion,Men's Clothing,2390,3660,0.347
+P025,Women's Clothing Product 1,Fashion,Women's Clothing,2780,4550,0.389
+P026,Women's Clothing Product 2,Fashion,Women's Clothing,1420,1730,0.179
+P027,Women's Clothing Product 3,Fashion,Women's Clothing,3040,3930,0.226
+P028,Footwear Product 1,Fashion,Footwear,540,810,0.333
+P029,Footwear Product 2,Fashion,Footwear,1760,2330,0.245
+P030,Footwear Product 3,Fashion,Footwear,3270,4000,0.182
+P031,Packaged Food Product 1,Grocery,Packaged Food,410,510,0.196
+P032,Packaged Food Product 2,Grocery,Packaged Food,470,650,0.277
+P033,Packaged Food Product 3,Grocery,Packaged Food,150,180,0.167
+P034,Beverages Product 1,Grocery,Beverages,370,470,0.213
+P035,Beverages Product 2,Grocery,Beverages,250,390,0.359
+P036,Beverages Product 3,Grocery,Beverages,290,380,0.237
+P037,Household Essentials Product 1,Grocery,Household Essentials,760,1290,0.411
+P038,Household Essentials Product 2,Grocery,Household Essentials,810,1230,0.341
+P039,Household Essentials Product 3,Grocery,Household Essentials,460,620,0.258
+P040,Skincare Product 1,Personal Care,Skincare,960,1480,0.351
+P041,Skincare Product 2,Personal Care,Skincare,1260,2120,0.406
+P042,Skincare Product 3,Personal Care,Skincare,510,620,0.177
+P043,Haircare Product 1,Personal Care,Haircare,560,890,0.371
+P044,Haircare Product 2,Personal Care,Haircare,1120,1700,0.341
+P045,Haircare Product 3,Personal Care,Haircare,460,640,0.281
+P046,Personal Hygiene Product 1,Personal Care,Personal Hygiene,290,490,0.408
+P047,Personal Hygiene Product 2,Personal Care,Personal Hygiene,750,890,0.157
+P048,Personal Hygiene Product 3,Personal Care,Personal Hygiene,790,950,0.168
+P049,Smartphones Product 49,Electronics,Smartphones,13180,16660,0.209
+P050,Laptops Product 50,Electronics,Laptops,57670,69830,0.174

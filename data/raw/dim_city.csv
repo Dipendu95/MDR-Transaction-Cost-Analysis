@@ -1,0 +1,26 @@
+City_ID,City,State,Region,Tier
+C001,Mumbai,Maharashtra,West,Tier 1
+C002,Delhi,Delhi,North,Tier 1
+C003,Bengaluru,Karnataka,South,Tier 1
+C004,Hyderabad,Telangana,South,Tier 1
+C005,Chennai,Tamil Nadu,South,Tier 1
+C006,Kolkata,West Bengal,East,Tier 1
+C007,Pune,Maharashtra,West,Tier 1
+C008,Ahmedabad,Gujarat,West,Tier 1
+C009,Jaipur,Rajasthan,North,Tier 2
+C010,Lucknow,Uttar Pradesh,North,Tier 2
+C011,Chandigarh,Chandigarh,North,Tier 2
+C012,Indore,Madhya Pradesh,Central,Tier 2
+C013,Kochi,Kerala,South,Tier 2
+C014,Coimbatore,Tamil Nadu,South,Tier 2
+C015,Bhubaneswar,Odisha,East,Tier 2
+C016,Guwahati,Assam,East,Tier 2
+C017,Patna,Bihar,East,Tier 2
+C018,Nagpur,Maharashtra,West,Tier 2
+C019,Surat,Gujarat,West,Tier 2
+C020,Bhopal,Madhya Pradesh,Central,Tier 2
+C021,Kanpur,Uttar Pradesh,North,Tier 2
+C022,Visakhapatnam,Andhra Pradesh,South,Tier 2
+C023,Vadodara,Gujarat,West,Tier 2
+C024,Ranchi,Jharkhand,East,Tier 2
+C025,Mysuru,Karnataka,South,Tier 2
