@@ -1,3 +1,10 @@
+## Project Files
+
+- [View Power BI Dashboard](dashboard/)
+- [View Portfolio Case Study](docs/Dipendu_Roy_MDR_Portfolio_Case_Study.pdf)
+
+
+
 MDR Transaction & Cost Analysis
 
 End-to-end MDR transaction and cost analysis using SQL Server, Python, Power BI, and DAX, focused on understanding where Merchant Discount Rate (MDR) cost is generated and how it varies across merchants, cities, payment methods, and time.
